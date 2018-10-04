@@ -1,5 +1,5 @@
 #
-# openjdk with iptables Dockerfile
+# Dockerfile of iptables on top of OpenJDK
 #
 # https://github.com/hseeberger/openjdk-iptables
 #
