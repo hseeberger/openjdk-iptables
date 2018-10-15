@@ -5,7 +5,7 @@
 #
 
 # Pull base image
-FROM openjdk:8u181-slim
+FROM openjdk:8u181
 
 # Install
 RUN \
