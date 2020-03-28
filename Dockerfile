@@ -5,7 +5,7 @@
 #
 
 # Pull base image
-FROM openjdk:8u181
+FROM adoptopenjdk:11.0.6_10-jdk-hotspot
 
 # Install
 RUN \
